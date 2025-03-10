@@ -1,0 +1,4 @@
+model\Vote.class
+model\Candidate.class
+controller\VoteServlet.class
+controller\NewCandidateServlet.class

@@ -1,0 +1,7 @@
+dao\DBConnect.class
+model\Product.class
+dao\UserDAO.class
+controller\ProductController.class
+controller\AuthController.class
+dao\ProductDAO.class
+model\User.class
